@@ -81,7 +81,7 @@ body {
   transition: background-position 350ms;
 }.
 
-.btn:hover {
+.btn:hover {.
   background-position: right;
 }.
 .
